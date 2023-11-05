@@ -1,0 +1,15 @@
+C:\Users\alex\RiderProjects\PatrenPrototip\PatrenPrototip\bin\Debug\net6.0\PatrenPrototip.exe
+C:\Users\alex\RiderProjects\PatrenPrototip\PatrenPrototip\bin\Debug\net6.0\PatrenPrototip.deps.json
+C:\Users\alex\RiderProjects\PatrenPrototip\PatrenPrototip\bin\Debug\net6.0\PatrenPrototip.runtimeconfig.json
+C:\Users\alex\RiderProjects\PatrenPrototip\PatrenPrototip\bin\Debug\net6.0\PatrenPrototip.dll
+C:\Users\alex\RiderProjects\PatrenPrototip\PatrenPrototip\bin\Debug\net6.0\PatrenPrototip.pdb
+C:\Users\alex\RiderProjects\PatrenPrototip\PatrenPrototip\obj\Debug\net6.0\PatrenPrototip.csproj.AssemblyReference.cache
+C:\Users\alex\RiderProjects\PatrenPrototip\PatrenPrototip\obj\Debug\net6.0\PatrenPrototip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\RiderProjects\PatrenPrototip\PatrenPrototip\obj\Debug\net6.0\PatrenPrototip.AssemblyInfoInputs.cache
+C:\Users\alex\RiderProjects\PatrenPrototip\PatrenPrototip\obj\Debug\net6.0\PatrenPrototip.AssemblyInfo.cs
+C:\Users\alex\RiderProjects\PatrenPrototip\PatrenPrototip\obj\Debug\net6.0\PatrenPrototip.csproj.CoreCompileInputs.cache
+C:\Users\alex\RiderProjects\PatrenPrototip\PatrenPrototip\obj\Debug\net6.0\PatrenPrototip.dll
+C:\Users\alex\RiderProjects\PatrenPrototip\PatrenPrototip\obj\Debug\net6.0\refint\PatrenPrototip.dll
+C:\Users\alex\RiderProjects\PatrenPrototip\PatrenPrototip\obj\Debug\net6.0\PatrenPrototip.pdb
+C:\Users\alex\RiderProjects\PatrenPrototip\PatrenPrototip\obj\Debug\net6.0\PatrenPrototip.genruntimeconfig.cache
+C:\Users\alex\RiderProjects\PatrenPrototip\PatrenPrototip\obj\Debug\net6.0\ref\PatrenPrototip.dll
