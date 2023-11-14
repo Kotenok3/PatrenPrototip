@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "LDhYjWveu88HhQ1enCh0BpN0zepGicSxHheEm5n+tSBsBRFUcMZ+nEqc+g1Kisyj4yt2rQDun7XwljQEkiQucw==",
+  "dgSpecHash": "FDPJ8brZiy/aGBQSFwXqrx3+b/DVO7IygyKBx5A3w3xw3n7bQ7CNkY1wwuBGq4FnmAg11vd/Z43HN6fiVT3Y+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alex\\RiderProjects\\PatrenPrototip\\PatrenPrototip\\PatrenPrototip.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\User\\RiderProjects\\PatrenPrototip\\PatrenPrototip\\PatrenPrototip.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

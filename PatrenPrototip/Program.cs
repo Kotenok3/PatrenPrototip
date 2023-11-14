@@ -21,4 +21,7 @@ Console.WriteLine($"Original Tesla:{teslaOrig}");
 Console.WriteLine($"Tesla clone using class:{teslaClone1}");
 Console.WriteLine($"Tesla clone using factory{teslaClone2}");
 
+Console.WriteLine($"{ReferenceEquals(teslaOrig, teslaClone1)}");
+Console.WriteLine($"{ReferenceEquals(teslaOrig, teslaClone2)}");
+Console.WriteLine($"{ReferenceEquals(teslaClone1, teslaClone2)}");
 
